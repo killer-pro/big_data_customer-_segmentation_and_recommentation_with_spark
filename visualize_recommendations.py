@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# Définir le chemin vers le fichier CSV fusionné
 merged_csv_path = "./results/merged_recommendations.csv"
 
 # Vérifier si le fichier existe
